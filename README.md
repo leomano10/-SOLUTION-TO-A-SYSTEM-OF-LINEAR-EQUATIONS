@@ -16,6 +16,7 @@ End the program
 ## Program:
 #Program to find the solution for the given linear equations.
 #Developed by: manorajapriyan.l.e
+
 #RegisterNumber: 212225040227
 
 import os
@@ -31,7 +32,6 @@ B = np.array([-9, 4, -1])
 
 rank = np.linalg.solve(A, B)
 
-print(rank)
 print(rank)
 ## Output:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7a142b47-bd3b-44ea-a6d8-514087d253a9" />
